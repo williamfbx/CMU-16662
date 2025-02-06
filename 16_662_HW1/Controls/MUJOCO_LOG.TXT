@@ -1,0 +1,36 @@
+Sat Jan 25 19:26:45 2025
+ERROR: could not initialize GLFW
+
+Sat Jan 25 19:27:42 2025
+ERROR: could not initialize GLFW
+
+Sat Jan 25 19:27:47 2025
+ERROR: could not initialize GLFW
+
+Sat Jan 25 19:27:58 2025
+ERROR: could not initialize GLFW
+
+Sat Jan 25 19:28:37 2025
+ERROR: could not initialize GLFW
+
+Sat Jan 25 19:29:31 2025
+ERROR: could not initialize GLFW
+
+Sat Jan 25 19:29:44 2025
+ERROR: could not initialize GLFW
+
+Sat Jan 25 23:14:44 2025
+ERROR: Python exception raised
+
+Sat Jan 25 23:21:48 2025
+ERROR: Python exception raised
+
+Sat Jan 25 23:22:29 2025
+ERROR: Python exception raised
+
+Sun Jan 26 13:29:22 2025
+ERROR: Python exception raised
+
+Sun Jan 26 13:30:32 2025
+ERROR: Python exception raised
+
