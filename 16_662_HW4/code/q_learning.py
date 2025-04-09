@@ -10,10 +10,10 @@ import os
 MAX_STEPS_PER_EPISODE = 100
 BENCHMARK_TRIALS = 500
 N_TRAINING_TRIALS = 1000
-ENV_RHO = 0.4
+ENV_RHO = 0.99
 Q_ALPHA = 0.1
 Q_GAMMA = 0.99
-Q_EPSILON = 0.1        
+Q_EPSILON = 0.1       
         
 def train_q_agent(environment: GridWorld, agent: QAgent, trials=1000, max_steps_per_episode=100):
     """
