@@ -1,0 +1,3 @@
+pear: (755, 205)
+pomegranate: (439, 199)
+tangerine: (430, 522) 
